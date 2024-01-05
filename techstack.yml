@@ -1,7 +1,8 @@
 repo_name: jimbrig/ios-shortcuts
 report_id: c3451481943ba9a793dff2ab6004c7ce
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-07T20:29:45+00:00'
+timestamp: '2024-01-05T08:28:23+00:00'
 requested_by: jimbrig
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jimbrig/ios-shortcuts
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -22,6 +24,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jimbrig/ios-shortcuts/blob/main/archive/data.html
   detection_source: archive/data.html
   last_updated_by: Jimmy Briggs
   last_updated_on: 2023-09-06 05:45:22.000000000 Z
