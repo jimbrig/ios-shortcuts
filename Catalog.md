@@ -1,4 +1,4 @@
-# Bruce's iOS Shortcut Catalog
+# iOS Shortcut Catalog
 
 Hello and welcome to my **Shortcuts Catalog**!
 
