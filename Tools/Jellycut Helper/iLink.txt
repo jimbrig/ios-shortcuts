@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=utf-8:;;;;
+ORG:Jun 11, 2021 at 3:06 PM;
+TITLE;CHARSET=utf-8:https://www.icloud.com/shortcuts/2a549ff62ea44505a3a7eceb0c9fc431;
+END:VCARD

@@ -1,0 +1,5 @@
+import Shortcuts
+#Color: red, #Icon: shortcuts
+
+text(text: "Hello World!") >> introduction
+alert(alert: "${introduction}")
